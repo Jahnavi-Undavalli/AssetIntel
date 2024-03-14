@@ -1,0 +1,39 @@
+.editorContainer {
+    border: 1px solid rgb(187, 229, 243);
+   background-color:white;
+    width: 50%;
+    min-width: 70px;
+    min-height: 380px;
+    margin: 0 auto;
+    height: auto;
+    border-width: 5px;
+  }
+  
+  .bg-container{
+    background-color: light rgb(116, 108, 108);
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-photo/pink-flowers-with-petals-yellow-table_23-2148069078.jpg?t=st=1710443274~exp=1710446874~hmac=6a60aa7ee20fa8d7971c92a78fb5cc46ff050b99b3a2f8460f38c6790b08a074&w=996");
+  }
+
+  .heading {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+  }
+  
+  .save-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+   align-items: flex-end;
+  }
+
+  .above-container{
+    display: flex;
+    flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  }
+  
